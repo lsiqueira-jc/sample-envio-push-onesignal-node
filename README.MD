@@ -8,6 +8,9 @@
 4. yarn start
 5. acione o push através da rota localhost:3333/push
 
+
+**[Doc API Onesignal](https://documentation.onesignal.com/reference/create-notification)**
+
 **Exemplo de aplicação react-native recebendo o push**
 
 - [Recebendo push no react-native](https://github.com/lsiqueira-jc/sample-push-onesignal-react-native)
