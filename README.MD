@@ -10,4 +10,4 @@
 
 **Exemplo de aplicação react-native recebendo o push**
 
-- [Enviando push a partir do node](https://github.com/lsiqueira-jc/sample-envio-push-onesignal-node)
+- [Recebendo push no react-native](https://github.com/lsiqueira-jc/sample-push-onesignal-react-native)
