@@ -1,4 +1,4 @@
-## Utilizando o onesignal para enviar um push a partir de um projeto node
+## Utilizando o onesignal para evio de push a partir de um projeto node
 
 **Passos**
 
